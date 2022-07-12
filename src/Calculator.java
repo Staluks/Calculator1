@@ -1,9 +1,7 @@
 import java.util.Scanner;
 
 public class Calculator {
-    int a;
-    int b;
-
+    
     public int sum(int amount1, int amount2) {
 
         return amount1 + amount2;
